@@ -14,13 +14,13 @@ Xây dựng hệ thống quản lý phòng tập gym – yoga hỗ trợ ban qu�
 
 | Thành phần | Công nghệ |
 | :--- | :--- |
-| **Android Admin** | Android Studio, Java, XML Layout (minSdk 24) |
-| **Flutter Client** | Flutter 3.35+, Dart 3 |
-| **Backend** | Node.js 20, Express 4 |
-| **Cơ sở dữ liệu** | PostgreSQL (Supabase) |
-| **Lưu trữ hình ảnh** | Supabase Storage |
+| **Android Admin** | Android Studio, Java, XML |
+| **Flutter Client** | Flutter, Dart|
+| **Backend** | Node.js, Express |
+| **Cơ sở dữ liệu** |PostgreSQL (Supabase |
+| **Lưu trữ hình ảnh** | Supabase Storage|
 | **Triển khai Backend** | Render (Web Service) |
-| **Xác thực & Bảo mật** | JWT (JSON Web Token), bcrypt |
+| **Xác thực & Bảo mật** | JWT, bcrypt |
 
 ---
 
@@ -37,10 +37,10 @@ Xây dựng hệ thống quản lý phòng tập gym – yoga hỗ trợ ban qu�
 
 | STT | Họ và tên | MSSV | GitHub Username | Vai trò phụ trách |
 | :---: | :--- | :---: | :---: | :--- |
-| **1** | Huỳnh Ngọc Lâm | 221A010237 | [Username GitHub] | Backend: xác thực JWT, API đặt chỗ lớp (transaction xử lý danh sách chờ), check-in, báo cáo; deploy Render |
-| **2** | Huỳnh Ngọc Hiếu] | 241A010537 | [Username GitHub] | App Client (Flutter): đăng nhập/đăng ký, xem lịch lớp tuần, đặt chỗ và vào danh sách chờ, mã QR check-in, xem gói tập |
-| **3** | [Lương Văn Đô  | | [Username GitHub] | App Client: đăng nhập/đăng ký, xem lịch lớp tuần, đặt chỗ và vào danh sách chờ, mã QR check-in, xem gói tập |
-| **4** | Trần Nguyễn Đức Anh | 241A010625 | [Username GitHub] | App Client: nhật ký tập luyện (set/rep/mức tạ), theo dõi chỉ số cơ thể (cân nặng/mỡ), lịch sử tập và hủy đặt chỗ |
+| **1** | Huỳnh Ngọc Lâm | 221A010237 | L1ly | Backend: xác thực JWT, API đặt chỗ lớp (transaction xử lý danh sách chờ), check-in, báo cáo; deploy Render |
+| **2** | Huỳnh Ngọc Hiếu] | 241A010537 | hinhgiahieu-byte | App Client (Flutter): đăng nhập/đăng ký, xem lịch lớp tuần, đặt chỗ và vào danh sách chờ, mã QR check-in, xem gói tập |
+| **3** | [Lương Văn Đô  | 241A010541 | luongvando100-dotcom | App Client: đăng nhập/đăng ký, xem lịch lớp tuần, đặt chỗ và vào danh sách chờ, mã QR check-in, xem gói tập |
+| **4** | Trần Nguyễn Đức Anh | 241A010625 | DucAnh53 | App Client: nhật ký tập luyện (set/rep/mức tạ), theo dõi chỉ số cơ thể (cân nặng/mỡ), lịch sử tập và hủy đặt chỗ |
 
 ---
 
