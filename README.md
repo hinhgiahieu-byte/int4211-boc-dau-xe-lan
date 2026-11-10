@@ -43,6 +43,14 @@ Xây dựng hệ thống quản lý phòng tập gym – yoga hỗ trợ ban qu�
 | **4** | Trần Nguyễn Đức Anh | 241A010625 | DucAnh53 | App Client: nhật ký tập luyện (set/rep/mức tạ), theo dõi chỉ số cơ thể (cân nặng/mỡ), lịch sử tập và hủy đặt chỗ |
 
 ---
+## 5. Hồ sơ Mốc Tuần 9 (Chốt phân tích)
 
-## 5. Trạng thái dự án
+* Sơ đồ Use Case, Sơ đồ CSDL (ERD) và Bảng phân công: [docs/PHAN_TICH_TUAN_9.md](docs/PHAN_TICH_TUAN_9.md)
+
+## 7. Tài khoản thử nghiệm (Mật khẩu chung: `123456`)
+
+* Quản trị viên (`QUAN_TRI`): `admin@gymyoga.vn` (Huỳnh Ngọc Hiếu)
+* Hội viên (`HOI_VIEN`): `hoivien1@gymyoga.vn` (Huỳnh Ngọc Lâm) / `hoivien2@gymyoga.vn` (Lương Văn Đô) / `hoivien3@gymyoga.vn` (Trần Nguyễn Đức Anh)
+
+## 8. Trạng thái dự án
 Dự án đang trong giai đoạn khởi tạo cấu trúc thư mục, thiết kế cơ sở dữ liệu và chuẩn bị triển khai các thành phần theo tiến độ 8 tuần.
