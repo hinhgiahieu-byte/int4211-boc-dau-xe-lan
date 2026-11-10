@@ -53,4 +53,4 @@ Xây dựng hệ thống quản lý phòng tập gym – yoga hỗ trợ ban qu�
 * Hội viên (`HOI_VIEN`): `hoivien1@gymyoga.vn` (Huỳnh Ngọc Lâm) / `hoivien2@gymyoga.vn` (Lương Văn Đô) / `hoivien3@gymyoga.vn` (Trần Nguyễn Đức Anh)
 
 ## 8. Trạng thái dự án
-Dự án đang trong giai đoạn khởi tạo cấu trúc thư mục, thiết kế cơ sở dữ liệu và chuẩn bị triển khai các thành phần theo tiến độ 8 tuần.
+Dự án đang trong giai đoạn khởi tạo cấu trúc thư mục, thiết kế cơ sở dữ liệu và chuẩn bị triển khai các thành phần theo tiến độ 11 tuần.
